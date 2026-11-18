@@ -2,6 +2,8 @@
 
 A simple and flexible daily planning resource designed to help people organize everyday tasks.
 
+Free to use and adapt for personal planning. Part of the YoungsterGoodies free resource library — our complete planners are on Etsy.
+
 ## Features
 
 - Daily task checklist
@@ -11,7 +13,28 @@ A simple and flexible daily planning resource designed to help people organize e
 - Flexible daily planning
 - Simple Markdown format
 
-## Who Is This For?
+## What's inside
+
+- `daily-checklist.md` — the daily checklist: morning routine, top 3 priorities, short work blocks, evening reset
+- `README.md` — this file: how to use the checklist
+
+## How to use
+
+1. Open `daily-checklist.md`.
+2. Copy it for today, or print it.
+3. Write down your top three priorities.
+4. Tick tasks off as you finish them.
+5. Do a 5-minute evening reset: write tomorrow's top three and tick today's habits.
+
+## Example daily checklist
+
+- Review today's tasks
+- Choose three priorities
+- Start one small task
+- Take regular breaks
+- Review completed tasks
+
+## Who is this for?
 
 This resource may be useful for:
 
@@ -19,22 +42,6 @@ This resource may be useful for:
 - Students managing daily tasks
 - Remote workers organizing projects
 - Anyone looking for a simple daily checklist
-
-## How to Use
-
-1. Open the daily planner file.
-2. Download or copy the Markdown template.
-3. Add your daily tasks.
-4. Choose a few priorities.
-5. Review and adjust your plan throughout the day.
-
-## Example Daily Checklist
-
-- [ ] Review today's tasks
-- [ ] Choose three priorities
-- [ ] Start one small task
-- [ ] Take regular breaks
-- [ ] Review completed tasks
 
 ## Benefits
 
@@ -78,11 +85,14 @@ Yes. The checklist fits study tasks, work tasks and home tasks the same way.
 10. Where can I find more planners?
 Our full planners and Notion templates are in our Etsy shop: https://www.etsy.com/shop/YoungsterGoodies
 
-## About
+## About YoungsterGoodies
 
-ADHD Notion Planner shares simple digital planning resources, Notion templates, and organization guides.
+YoungsterGoodies shares simple digital planning resources, Notion templates, and organization guides.
 
-Explore the repository and adapt the resources to your needs.
+- Etsy shop: https://www.etsy.com/shop/YoungsterGoodies
+- Featured planner: All In One Life Planner Notion Dashboard 2026-2027 — $19.00, live Notion template (not printable): https://www.etsy.com/listing/4617679597/all-in-one-life-planner-notion-dashboard
+
+The full planner collection is on Etsy. This repository only holds free resources — no paid planner files are uploaded here.
 
 ## Shop our planners
 

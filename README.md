@@ -10,13 +10,17 @@ Free to use and adapt for personal planning. Part of the YoungsterGoodies free r
 - Top priorities section
 - Morning routine tracker
 - Evening review checklist
+- Weekly planning checklist
+- Simple habit tracker
 - Flexible daily planning
 - Simple Markdown format
 
 ## What's inside
 
 - `daily-checklist.md` — the daily checklist: morning routine, top 3 priorities, short work blocks, evening reset
-- `README.md` — this file: how to use the checklist
+- `weekly-checklist.md` — the weekly planner: week focus, top 3 weekly priorities, one small step each day, weekly review
+- `habit-tracker.md` — the habit tracker: 3 habits, daily ticks, weekly count and streak
+- `README.md` — this file: how to use the checklists
 
 ## How to use
 

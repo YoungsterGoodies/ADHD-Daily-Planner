@@ -13,6 +13,7 @@ Free to use and adapt for personal planning. Part of the YoungsterGoodies free r
 - Weekly planning checklist
 - Simple habit tracker
 - Simple planning guide
+- Notion dashboard guide
 - Flexible daily planning
 - Simple Markdown format
 
@@ -22,6 +23,7 @@ Free to use and adapt for personal planning. Part of the YoungsterGoodies free r
 - `weekly-checklist.md` — the weekly planner: week focus, top 3 weekly priorities, one small step each day, weekly review
 - `habit-tracker.md` — the habit tracker: 3 habits, daily ticks, weekly count and streak
 - `planning-guide.md` — the planning guide: how to use the daily, weekly and habit files together
+- `notion-dashboard-guide.md` — the Notion dashboard guide: build a one-page Today dashboard in Notion, with Benefits and FAQs
 - `README.md` — this file: how to use the checklists
 
 ## How to use

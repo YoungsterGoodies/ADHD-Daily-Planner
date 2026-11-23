@@ -28,11 +28,12 @@ Free to use and adapt for personal planning. Part of the YoungsterGoodies free r
 
 ## How to use
 
-1. Open `daily-checklist.md`.
-2. Copy it for today, or print it.
-3. Write down your top three priorities.
-4. Tick tasks off as you finish them.
-5. Do a 5-minute evening reset: write tomorrow's top three and tick today's habits.
+Start with `planning-guide.md` — it explains the whole system in 5 steps.
+
+- **Every day:** open `daily-checklist.md`. Copy it for today, or print it. Write down your top three priorities, tick tasks off as you finish them, and do a 5-minute evening reset: write tomorrow's top three and tick today's habits.
+- **Every week:** open `weekly-checklist.md` on Sunday. Set the week's focus and top 3 priorities, give each day one small step, and review the week at the end.
+- **Every day:** open `habit-tracker.md`. Pick three small habits and tick the box each day you do them.
+- **In Notion:** open `notion-dashboard-guide.md` to build a one-page Today dashboard with the same system.
 
 ## Example daily checklist
 

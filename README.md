@@ -13,6 +13,7 @@ Free to use and adapt for personal planning. Part of the YoungsterGoodies free r
 - Weekly planning checklist
 - Simple habit tracker
 - Daily task management template
+- Morning routine checklist
 - Simple planning guide
 - Notion dashboard guide
 - Flexible daily planning
@@ -24,6 +25,7 @@ Free to use and adapt for personal planning. Part of the YoungsterGoodies free r
 - `weekly-checklist.md` — the weekly planner: week focus, top 3 weekly priorities, one small step each day, weekly review
 - `habit-tracker.md` — the habit tracker: 3 habits, daily ticks, weekly count and streak
 - `daily-task-management.md` — the daily task management template: brain dump, top 3 priorities, task list with first step and time block, done list, evening reset
+- `morning-routine-checklist.md` — the morning routine checklist: wake-up steps, 15-minute routine, top 3 priorities, first task
 - `planning-guide.md` — the planning guide: how to use the daily, weekly and habit files together
 - `notion-dashboard-guide.md` — the Notion dashboard guide: build a one-page Today dashboard in Notion, with Benefits and FAQs
 - `README.md` — this file: how to use the checklists
@@ -35,6 +37,7 @@ Start with `planning-guide.md` — it explains the whole system in 5 steps.
 - **Every day:** open `daily-checklist.md`. Copy it for today, or print it. Write down your top three priorities, tick tasks off as you finish them, and do a 5-minute evening reset: write tomorrow's top three and tick today's habits.
 - **Every week:** open `weekly-checklist.md` on Sunday. Set the week's focus and top 3 priorities, give each day one small step, and review the week at the end.
 - **Every day:** open `habit-tracker.md`. Pick three small habits and tick the box each day you do them.
+- **Every morning:** open `morning-routine-checklist.md` and follow the 15-minute routine before opening `daily-checklist.md`.
 - **Every day:** open `daily-task-management.md` to list all tasks, pick the top 3, and give each one a first step and a time block.
 - **In Notion:** open `notion-dashboard-guide.md` to build a one-page Today dashboard with the same system.
 
